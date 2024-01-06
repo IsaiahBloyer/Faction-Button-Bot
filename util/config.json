@@ -1,0 +1,13 @@
+{
+    "token": "",
+    "prefix": "=",
+    "allowedRoleID": "",
+    "serverIP": "",
+    "joinCommand": "",
+    "username": "",
+    "password": "",
+    "serverVersion": "1.8.9",
+    "cannonSpeed": "3",
+    "gravity": true,
+    "firing": true
+}
